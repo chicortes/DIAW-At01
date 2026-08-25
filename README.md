@@ -1,2 +1,2 @@
 # DIAW-At01
-API Clima de BH
+Atividade 01 - API REST de Clima com Spring Boot
